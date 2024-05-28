@@ -1,0 +1,52 @@
+# Django specific #
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# If your build process includes running `collectstatic`, then you probably don't need or want to include collected static files in Git #
+staticfiles/
+static/
+
+# Ignore folders created by django-extensions #
+_ignored/
+
+# Ignore folders created by Celery beat schedule #
+celerybeat-schedule
+
+# Ignore folders created by SQLite3 #
+*.db
+*.sqlite3
+
+# Python #
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv-*/       # For multiple virtual environments
+
+# Environments #
+.venv/
+# Generally, you should not have `node_modules` checked into your repository unless they are essential for production or CI builds #
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# JetBrains #
+.idea/
+
+# VS Code #
+.vscode/
+
+# MacOS #
+.DS_Store
+
+# Environment variable files #
+.env
