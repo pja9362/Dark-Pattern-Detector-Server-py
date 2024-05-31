@@ -30,3 +30,8 @@
 
 ## Prototype
 https://github.com/pja9362/Dark-Pattern-Detector/assets/80195979/dd28d6c9-8944-42b5-8cf8-d2661a5c70a7
+
+## Selenium Scraper
+https://github.com/pja9362/Dark-Pattern-Detector-Server-py/assets/80195979/763f7893-c282-4478-bfa9-24ced210c56a
+
+
